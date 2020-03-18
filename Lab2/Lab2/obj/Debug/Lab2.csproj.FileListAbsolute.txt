@@ -1,0 +1,10 @@
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.MainWindow.resources
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\Sony\Desktop\Lab 2\Lab2\Lab2\obj\Debug\Lab2.About.resources
